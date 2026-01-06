@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+
+# Environment variables (sensitive info)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# SQLite databases (if you ever use local DB for testing)
+*.sqlite3
